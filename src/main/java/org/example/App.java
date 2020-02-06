@@ -4,24 +4,6 @@ import java.util.Scanner;
 import org.example.NYGift.*;
 import org.example.Sweets.*;
 
-//abstract class Sweet
-//{
-//}
-
-//class Chocolates extends Sweet
-//{
-//
-//}
-
-//class Candies extends Sweet
-//{
-//
-//}
-
-//class NYGift
-//{
-//
-//}
 public class App 
 {
     public static void main( String[] args )
